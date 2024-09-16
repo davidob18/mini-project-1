@@ -1,25 +1,26 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# MisterGato
+*[Marcos Ortiz y Gilda Ríos]*
 
-*[Your Cohort, Campus & Date]*
+*[DAPT-0922 MX]*
 
 ## Content
-- [Project Description](#project-description)
-- [Rules](#rules)
+- [Project Description](#project-description) 
+- [Rules](#rules) 
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
+MisterGato es un juego tradicional de TicTacToe en el que el usuario ingresa jugadas y el sistema emite jugadas de manera aleatoria. 
 
 ## Rules
-Describe briefly the rules of the game you chose. 
+El jugador debe ingresar su nombre de usuario. La computadora le pedirá que seleccione una casilla a modo de coordenadas (X,Y), dando 9 posibilidades iniciales. A partir de este momento, en cada turno el jugador también podrá elegir la opción de 'Salir' para abandonar el juego. Una vez que el usuario ha seleccionado una casilla, el CPU hará una jugada también, devolviendo el turno al jugador. El juego termina cuando alguno de los jugadores consiga marcar tres casillas en línea vertical, horizontal o diagonal; quien lo logre tendrá la victoria. Si se terminan las casillas y ningún jugador ganó, se considera empate.  
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+1) Selección de la temática del juego.
+2) Deter
 
 ## Organization
 How did you organize your work? Did you use any tools like a trello or kanban board?
